@@ -42,3 +42,10 @@ h1, h2 {
     color: #ffd553; /* gold */
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black, 0 0 0.4em black;
 }
+
+.description {
+    text-align: left;
+    line-height: 1.5em;
+    font-family: "Kreon";
+    font-size: 1.8rem;
+}
