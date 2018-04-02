@@ -8,7 +8,6 @@ import { rootRouterConfig } from './app.routes';
 
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
-import { DownloadComponent } from './download/download.component';
 import { AboutComponent } from './about/about.component';
 
 
@@ -16,7 +15,6 @@ import { AboutComponent } from './about/about.component';
   declarations: [
     AppComponent,
     HomeComponent,
-    DownloadComponent,
     AboutComponent
   ],
   imports: [
