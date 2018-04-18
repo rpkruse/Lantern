@@ -11,3 +11,8 @@
     overflow: hidden;
     margin: 2em auto 3em;
 }
+
+.logo{
+    width: 240px;
+    height: 40px;
+}
